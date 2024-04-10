@@ -4,7 +4,6 @@
 package main
 
 import (
-    "github.com/extism/go-pdk"
     "github.com/MAIF/otoroshi-go-types"
 )
 
