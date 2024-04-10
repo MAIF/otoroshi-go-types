@@ -5,7 +5,7 @@ package main
 
 import (
     "github.com/extism/go-pdk"
-    "github.com/Zwiterrion/types-wasm-go-plugin"
+    "github.com/MAIF/otoroshi-go-types"
 )
 
 //export greet
